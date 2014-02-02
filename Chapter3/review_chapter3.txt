@@ -1,0 +1,19 @@
+Stroustrup's Book - Chapter 3: Objects, Types, and Values
+Review
+
+1. Uma mensagem que instiga (prompts, em inglês) o usuário a fazer algo.
+    e.g. Enter yout first name
+
+2. >> (get from)
+
+3.
+cout << "Enter a integer value: ";
+cin >> number;
+
+4. '\n' is called "new line character", and serve for end of line
+
+5. A white-space character
+
+6. A return
+
+7. cout << "Hello, " << first_name << "!\n";

@@ -1,0 +1,79 @@
+3 2 4
+
+number1 is 3
+number2 is 2
+number3 is 4
+
+2 < 3 ?
+sim
+então
+number2 is 3
+number1 is 2
+
+output: 2 3 4
+
+4 < 2 ?
+não
+
+4 < 3 ?
+não
+
+final output: 2 3 4
+
+4 3 0
+
+number1 is 4
+number2 is 3
+number3 is 0
+
+3 < 4 ?
+sim
+então
+number1 is 3
+number2 is 4
+
+0 < 3 ?
+sim
+number1 is 0
+number3 is 3
+
+output: 0, 4, 3
+
+3 < 4 ?
+sim
+number3 is 4
+number2 is 3
+
+final output: 0, 3, 4
+
+== New Version ==
+29/11/2013 - 18:13
+
+User's Input: 10, 2, 34
+
+number2(2) < number1(10) ?
+sim
+number1 is 2
+number2 is 10
+
+number3(34) < number2(10) ?
+não
+
+2, 10, 34
+
+User's Input:  1, 20, 0
+
+number2(20) < number1(1) ?
+não
+
+number3(0) < number1(1) ?
+sim
+number1 is 0
+number3 is 1
+
+number3(1) < number2(20) ?
+sim
+number2 is 1
+number3 is 20
+
+Final Output: 0, 1, 20

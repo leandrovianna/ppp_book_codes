@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1382830947 source:/home/leandro/Documentos/C++/Aprendizado/Stroustrup/practice/hello_world/main.cpp
+	"std_lib_facilities.h"
+
+1382831206 /home/leandro/Documentos/C++/Aprendizado/Stroustrup/practice/hello_world/std_lib_facilities.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<stdexcept>
+	<hash_map>
+	<ext/hash_map>
+	<iomanip>
+
