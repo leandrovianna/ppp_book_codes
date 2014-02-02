@@ -11,15 +11,15 @@
    *********************************************************************** */
 
 //Answer about -1000 will be min_temp: Yes, Absolute Zero is approximately -500 Fº.
-//Answer about 1000 will be max_temp: No for universe, there are start with temperature
+//Answer about 1000 will be max_temp: No for universe, there are stars with temperature
 //of 1 billion celsius degrees. But, it's ok for Earth.
 
 #include "std_lib_facilities.h"
 
 int main()
 {
-	const double min_temp = -1000;
-	const double max_temp = 1000;
+    const double min_temp = -1000;
+    const double max_temp = 1000;
     double temp = 0;
     double sum = 0;
     double high_temp = min_temp; 	//initialize to impossible low
